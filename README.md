@@ -1,9 +1,9 @@
 ## 👋  Hey , I'm Bruce
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kid626&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kid626&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=66FFFF&hide_title=false" />
 
 - 🖋 Java / Python
 - 🏃 Programming / Reading / Listening / Table Tennis / Sporting
-- ✍️ [Blog](https://mp-new.csdn.net)
-- 📫 [QQ](495802704@qq.com)
-- ⚡ fan of Eason Chan
+- ✍️ [Blog](https://blog.csdn.net/qq_38150250?spm=1001.2100.3001.5343)
+- 📫 495802704@qq.com
+- ❤️ Eason Chan
 - 👯 若你喜欢怪人，其实我很美
