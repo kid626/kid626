@@ -1,5 +1,5 @@
 ## 👋  Hey , I'm Bruce
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kid626&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=66FFFF&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kid626&show_icons=true&icon_color=CE1D2D&text_color=00ff00&bg_color=ff0000&hide_title=false" />
 
 - 🖋 Java / Python
 - 🏃 Programming / Reading / Listening / Table Tennis / Sporting
